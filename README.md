@@ -1,5 +1,5 @@
-# NameProject
-# ProjetoGoogleClass ## My first front-end activity.
-Intended for my first front-end activity. Based and instructed on the course: [Nome do Curso](https://www.linkDoCuso.com)  .
+# Game - Secrety Number.
+## My first activity of the course. Training JavaScript.
+Intended for my first JavaScript activity. Based and instructed on the course: __AluraOne__.
 
 ## __Note: This repository is just the end of the project, the development process is private.__
